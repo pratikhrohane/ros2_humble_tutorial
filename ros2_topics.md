@@ -114,6 +114,6 @@ ros2 topic hz /turtle1/pose
 
 ## ✅ What’s Next?
 
-👉 [ROS2 SERVICES](./ros_services.md)
+👉 [ROS2 SERVICES](./ros2_services.md)
 
 ---
